@@ -1,0 +1,7 @@
+D:\Turan\ConsoleSoli\ConsolFor\bin\Debug\ConsolFor.exe.config
+D:\Turan\ConsoleSoli\ConsolFor\bin\Debug\ConsolFor.exe
+D:\Turan\ConsoleSoli\ConsolFor\bin\Debug\ConsolFor.pdb
+D:\Turan\ConsoleSoli\ConsolFor\obj\Debug\ConsolFor.csprojAssemblyReference.cache
+D:\Turan\ConsoleSoli\ConsolFor\obj\Debug\ConsolFor.csproj.CoreCompileInputs.cache
+D:\Turan\ConsoleSoli\ConsolFor\obj\Debug\ConsolFor.exe
+D:\Turan\ConsoleSoli\ConsolFor\obj\Debug\ConsolFor.pdb

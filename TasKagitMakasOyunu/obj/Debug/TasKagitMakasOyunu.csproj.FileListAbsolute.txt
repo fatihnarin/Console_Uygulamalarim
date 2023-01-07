@@ -1,0 +1,7 @@
+C:\Users\fatih\OneDrive\Masaüstü\ConsoleSoli-20221019T195308Z-001\ConsoleSoli\TasKagitMakasOyunu\bin\Debug\TasKagitMakasOyunu.exe.config
+C:\Users\fatih\OneDrive\Masaüstü\ConsoleSoli-20221019T195308Z-001\ConsoleSoli\TasKagitMakasOyunu\bin\Debug\TasKagitMakasOyunu.exe
+C:\Users\fatih\OneDrive\Masaüstü\ConsoleSoli-20221019T195308Z-001\ConsoleSoli\TasKagitMakasOyunu\bin\Debug\TasKagitMakasOyunu.pdb
+C:\Users\fatih\OneDrive\Masaüstü\ConsoleSoli-20221019T195308Z-001\ConsoleSoli\TasKagitMakasOyunu\obj\Debug\TasKagitMakasOyunu.csproj.AssemblyReference.cache
+C:\Users\fatih\OneDrive\Masaüstü\ConsoleSoli-20221019T195308Z-001\ConsoleSoli\TasKagitMakasOyunu\obj\Debug\TasKagitMakasOyunu.csproj.CoreCompileInputs.cache
+C:\Users\fatih\OneDrive\Masaüstü\ConsoleSoli-20221019T195308Z-001\ConsoleSoli\TasKagitMakasOyunu\obj\Debug\TasKagitMakasOyunu.exe
+C:\Users\fatih\OneDrive\Masaüstü\ConsoleSoli-20221019T195308Z-001\ConsoleSoli\TasKagitMakasOyunu\obj\Debug\TasKagitMakasOyunu.pdb

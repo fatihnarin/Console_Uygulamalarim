@@ -1,0 +1,14 @@
+C:\Users\fatih\Desktop\ConsoleSoli-20221019T195308Z-001\ConsoleSoli\OgrenciListeOdevi\bin\Debug\OgrenciListeOdevi.exe.config
+C:\Users\fatih\Desktop\ConsoleSoli-20221019T195308Z-001\ConsoleSoli\OgrenciListeOdevi\bin\Debug\OgrenciListeOdevi.exe
+C:\Users\fatih\Desktop\ConsoleSoli-20221019T195308Z-001\ConsoleSoli\OgrenciListeOdevi\bin\Debug\OgrenciListeOdevi.pdb
+C:\Users\fatih\Desktop\ConsoleSoli-20221019T195308Z-001\ConsoleSoli\OgrenciListeOdevi\obj\Debug\OgrenciListeOdevi.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\ConsoleSoli-20221019T195308Z-001\ConsoleSoli\OgrenciListeOdevi\obj\Debug\OgrenciListeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\ConsoleSoli-20221019T195308Z-001\ConsoleSoli\OgrenciListeOdevi\obj\Debug\OgrenciListeOdevi.exe
+C:\Users\fatih\Desktop\ConsoleSoli-20221019T195308Z-001\ConsoleSoli\OgrenciListeOdevi\obj\Debug\OgrenciListeOdevi.pdb
+C:\Users\fatih\OneDrive\Masaüstü\ConsoleSoli-20221019T195308Z-001\ConsoleSoli\OgrenciListeOdevi\bin\Debug\OgrenciListeOdevi.exe.config
+C:\Users\fatih\OneDrive\Masaüstü\ConsoleSoli-20221019T195308Z-001\ConsoleSoli\OgrenciListeOdevi\bin\Debug\OgrenciListeOdevi.exe
+C:\Users\fatih\OneDrive\Masaüstü\ConsoleSoli-20221019T195308Z-001\ConsoleSoli\OgrenciListeOdevi\bin\Debug\OgrenciListeOdevi.pdb
+C:\Users\fatih\OneDrive\Masaüstü\ConsoleSoli-20221019T195308Z-001\ConsoleSoli\OgrenciListeOdevi\obj\Debug\OgrenciListeOdevi.csproj.AssemblyReference.cache
+C:\Users\fatih\OneDrive\Masaüstü\ConsoleSoli-20221019T195308Z-001\ConsoleSoli\OgrenciListeOdevi\obj\Debug\OgrenciListeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\fatih\OneDrive\Masaüstü\ConsoleSoli-20221019T195308Z-001\ConsoleSoli\OgrenciListeOdevi\obj\Debug\OgrenciListeOdevi.exe
+C:\Users\fatih\OneDrive\Masaüstü\ConsoleSoli-20221019T195308Z-001\ConsoleSoli\OgrenciListeOdevi\obj\Debug\OgrenciListeOdevi.pdb
